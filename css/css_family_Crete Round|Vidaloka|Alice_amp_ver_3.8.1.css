@@ -1,0 +1,24 @@
+
+
+
+
+
+
+@font-face {
+  font-family: 'Alice';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Alice'), local('Alice-Regular'), url(http://fonts.gstatic.com/s/alice/v7/acf9XsUhgp1k2j79ATk2cw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Crete Round';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Crete Round'), local('CreteRound-Regular'), url(http://fonts.gstatic.com/s/creteround/v5/ZCcPJiCGOzh84o2siPk48Z0EAVxt0G0biEntp43Qt6E.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Vidaloka';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Vidaloka '), local('Vidaloka-Regular'), url(http://fonts.gstatic.com/s/vidaloka/v8/sntaY1Q8xeij0j8FAJb2VvesZW2xOQ-xsNqO47m55DA.ttf) format('truetype');
+}
